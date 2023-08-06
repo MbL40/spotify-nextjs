@@ -1,0 +1,25 @@
+{
+  "dotenv.enableAutocloaking": true,
+  "files.exclude": {
+    "**/.editorconfig": true,
+    "**/.eslintignore": true,
+    "**/.eslintrc.js": true,
+    "**/.eslintrc": true,
+    "**/.github": true,
+    "**/.gitignore": true,
+    "**/.husky": true,
+    "**/.next": true,
+    "**/.nvmrc": true,
+    "**/.pre-commit-config.yaml": true,
+    "**/.prettierignore": true,
+    "**/.prettierrc": true,
+    "**/.swc": true,
+    "**/.vscode": true,
+    "**/.yarnrc.yml": true,
+    "**/amplify.yml": true,
+    "**/coverage": true,
+    "**/jest.config.js": true,
+    "**/jest.setup.js": true,
+    "**/next-env.d.ts": true
+  }
+}

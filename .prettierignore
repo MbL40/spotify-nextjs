@@ -1,0 +1,7 @@
+node_modules
+.next/
+.vercel/
+.vscode/
+public/
+node_modules/
+coverage/
